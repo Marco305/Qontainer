@@ -1,0 +1,9 @@
+<RCC>
+    <qresource>
+        <file alias="icon.png">view/images/icon.png</file>
+        <file alias="save.png">view/images/save.png</file>
+        <file alias="exit.png">view/images/exit.png</file>
+        <file alias="new.png">view/images/new.png</file>
+        <file alias="tax.png">view/images/tax.png</file>
+    </qresource>
+</RCC>
